@@ -52,7 +52,6 @@
           </div>
         </div>
 
-        <div class="weather-medium">Hello</div>
       </div>
     </main>
   </div>
